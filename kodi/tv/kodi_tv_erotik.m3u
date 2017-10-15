@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
+
